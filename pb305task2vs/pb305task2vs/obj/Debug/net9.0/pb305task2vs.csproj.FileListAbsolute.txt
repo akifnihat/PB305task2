@@ -1,0 +1,15 @@
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\obj\Debug\net9.0\pb305task2vs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\obj\Debug\net9.0\pb305task2vs.AssemblyInfoInputs.cache
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\obj\Debug\net9.0\pb305task2vs.AssemblyInfo.cs
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\obj\Debug\net9.0\pb305task2vs.csproj.CoreCompileInputs.cache
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\obj\Debug\net9.0\pb305task2vs.sourcelink.json
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\bin\Debug\net9.0\pb305task2vs.exe
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\bin\Debug\net9.0\pb305task2vs.deps.json
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\bin\Debug\net9.0\pb305task2vs.runtimeconfig.json
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\bin\Debug\net9.0\pb305task2vs.dll
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\bin\Debug\net9.0\pb305task2vs.pdb
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\obj\Debug\net9.0\pb305task2vs.dll
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\obj\Debug\net9.0\refint\pb305task2vs.dll
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\obj\Debug\net9.0\pb305task2vs.pdb
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\obj\Debug\net9.0\pb305task2vs.genruntimeconfig.cache
+C:\Users\akifst\Desktop\PB305task2\pb305task2vs\pb305task2vs\obj\Debug\net9.0\ref\pb305task2vs.dll
